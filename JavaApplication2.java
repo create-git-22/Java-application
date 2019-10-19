@@ -1,4 +1,4 @@
-
+//program to print
 package javaapplication1;
 
 interface xyz
